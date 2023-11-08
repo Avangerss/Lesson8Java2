@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lesson8Java2</string>
+    <string name="tv_out">Вход</string>
+    <string name="tv_welcome">Добро пожаловать!</string>
+    <string name="tv_entrance">Вход</string>
+    <string name="tv_login">Выполните вход или зарегистрируйтесь</string>
+    <string name="register">или зарегистрируйтесь.</string>
+    <string name="et_email">Введите вашу почту</string>
+    <string name="et_ressword">Введите пороль</string>
+    <string name="btn_enter">Войти</string>
+    <string name="tv_forgot_to_flog">Забыли пaроль?</string>
+    <string name="tv_hit">Нажми сюда</string>
+
+</resources>
